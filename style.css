@@ -1,0 +1,21 @@
+.card-header, .card-body, .card-footer {
+    background-color: rgb(0, 0, 0);
+    color: orange;
+    font-size: x-large;
+}
+
+.game-card {
+    height: 70vh;
+    font-family: 'Open Sans', monospace;
+    background-image:url(https://cdn.pixabay.com/photo/2018/01/26/18/21/matrix-3109378_1280.jpg)
+}
+
+input.text {
+    width:  500px;
+    height: 40px;
+}
+
+.card {
+    width:  550px;   
+}
+
